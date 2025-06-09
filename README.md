@@ -34,3 +34,7 @@ $ pnpm build:mac
 # For Linux
 $ pnpm build:linux
 ```
+
+### License
+
+Check (https://github.com/virtualWinter/Browser/blob/main/LICENSE)[License]
